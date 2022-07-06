@@ -1,0 +1,36 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    text-align: center;
+    padding: 20px;
+    background-color: burlywood;
+}
+
+
+
+#count-el {
+    font-size: 60px;
+    padding-top: 15px;
+    padding-bottom: 25px;
+}
+
+button {
+    padding: 5px 20px;
+    font-weight: 700;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    border: 1px solid black;
+}
+
+#increment-btn {
+    background-color: red;
+    color: white;
+}
